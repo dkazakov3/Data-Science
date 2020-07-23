@@ -1,0 +1,192 @@
+Row_number,Country or area,Color,Adolescent fertility rate
+1,Afghanistan,red,99.6
+2,Albania,yellow,14.9
+3,Algeria,blue,6.1
+4,American Samoa,green,54
+5,Andorra,pink,0
+6,Angola,red,148.1
+7,Anguilla,yellow,0
+8,Argentina,blue,54.2
+9,Armenia,green,33.2
+38,Chad,blue,138.1
+39,Channel Islands 3,green,8.4
+40,Chile,pink,56
+41,China 4,red,9.1
+42,"China, Hong Kong SAR 5",yellow,4.2
+43,"China, Macao SAR 6",blue,4.9
+44,Colombia,green,68.1
+45,Comoros,pink,51.1
+46,Congo,red,112.6
+47,Cook Islands,yellow,62
+48,Costa Rica,blue,61.9
+49,Côte d'Ivoire,green,105.7
+50,Croatia,pink,12.8
+51,Cuba,red,43.9
+52,Cyprus 7,yellow,5.5
+53,Czech Republic,blue,9.2
+54,Dem. People's Republic of Korea,green,0.6
+55,Democratic Republic of the Congo,pink,170.6
+56,Denmark,red,5.1
+57,Djibouti,yellow,19.5
+58,Dominica,blue,45.8
+59,Dominican Republic,green,103.6
+60,Ecuador,pink,80.6
+61,Egypt,red,40.6
+62,El Salvador,yellow,41.6
+63,Equatorial Guinea,blue,42.6
+64,Eritrea,green,43.6
+65,Estonia,pink,44.6
+66,Ethiopia,red,45.6
+67,Faeroe Islands,yellow,46.6
+68,Fiji,blue,12
+69,Finland 8,green,48.6
+70,France,pink,49.6
+71,French Guiana,red,12
+72,French Polynesia,yellow,51.6
+73,Gabon,blue,52.6
+74,Gambia,green,21
+75,Georgia 9,pink,54.6
+76,Germany,red,55.6
+77,Ghana,yellow,56.6
+78,Greece,blue,57.6
+79,Greenland,green,58.6
+80,Grenada,pink,4.6
+81,Guadeloupe 10,red,5.6
+82,Guam,yellow,6.6
+83,Guatemala,blue,7.6
+84,Guinea,green,8.6
+85,Guinea-Bissau,pink,9.6
+86,Guyana,red,10.6
+87,Haiti,yellow,11.6
+88,Honduras,blue,12.6
+89,Hungary,green,13.6
+90,Iceland,pink,11.6
+91,India,red,74.7
+92,Indonesia,yellow,42.3
+93,Iran (Islamic Republic of),blue,25
+94,Iraq,green,85.9
+95,Ireland,yellow,8.8
+96,Israel,yellow,14
+97,Italy,red,4
+98,Jamaica,yellow,69.7
+99,Japan,blue,6
+100,Jordan,pink,23.7
+101,Kazakhstan,red,25.5
+102,Kenya,yellow,98.1
+103,Kiribati,yellow,39
+104,Kuwait,red,14.4
+105,Kyrgyzstan,yellow,33
+106,Lao People's Democratic Republic,blue,30.1
+107,Latvia,yellow,12.8
+108,Lebanon,blue,15.4
+109,Lesotho,green,60.8
+110,Liberia,pink,123
+111,Libyan Arab Jamahiriya,red,2.6
+112,Liechtenstein,yellow,2.8
+113,Lithuania,blue,16.1
+114,Luxembourg,green,8.4
+115,Madagascar,pink,122.7
+116,Malawi,red,105.6
+117,Malaysia 11,yellow,106.6
+118,Maldives,blue,107.6
+119,Mali,green,108.6
+120,Malta,pink,109.6
+121,Marshall Islands,red,110.6
+122,Martinique,yellow,111.6
+123,Mauritania,blue,112.6
+124,Mauritius 12,green,113.6
+125,Mayotte,pink,114.6
+126,Mexico,red,115.6
+127,Micronesia (Fed. States of),yellow,116.6
+128,Mongolia,blue,117.6
+129,Montenegro,green,118.6
+130,Morocco,pink,119.6
+131,Mozambique,red,120.6
+132,Myanmar,yellow,121.6
+133,Namibia,blue,122.6
+134,Nauru,green,123.6
+135,Nepal,pink,124.6
+136,Netherlands,red,125.6
+137,Netherlands Antilles 13,yellow,126.6
+138,New Caledonia,blue,127.6
+139,New Zealand,green,128.6
+140,Nicaragua,pink,129.6
+141,Niger,red,130.6
+142,Nigeria,yellow,111.3
+143,Niue,blue,28
+144,Northern Mariana Islands,green,69
+145,Norway 14,pink,7.4
+146,Occupied Palestinian Territory 15,red,48.3
+147,Oman,yellow,9.3
+148,Pakistan,blue,28.1
+149,Palau,green,29
+150,Panama,pink,75.9
+151,Papua New Guinea,red,62
+152,Paraguay,yellow,66.7
+153,Peru,blue,48.7
+154,Philippines,green,46.5
+155,Poland,pink,12.2
+156,Portugal,red,12.5
+157,Puerto Rico,yellow,50.6
+158,Qatar,blue,15.5
+159,Republic of Korea,green,5.8
+160,Republic of Moldova 16,pink,29.1
+161,Réunion,red,43.4
+162,Romania,yellow,28.8
+163,Russian Federation,blue,23.2
+164,Rwanda,green,35.5
+165,Saint Lucia,pink,55.9
+166,Saint Vincent and the Grenadines,red,54.1
+167,Samoa,yellow,25.5
+168,Sao Tome and Principe,blue,55.4
+169,Saudi Arabia,green,22.1
+170,Senegal,pink,89.7
+171,Serbia 17,red,19.2
+172,Seychelles,yellow,115
+173,Sierra Leone,blue,104.2
+174,Singapore,green,6.7
+175,Slovakia,pink,16.7
+176,Slovenia,red,4.5
+177,Solomon Islands,yellow,64.6
+178,Somalia,blue,68
+179,South Africa,green,50.4
+180,Spain 18,pink,10.7
+181,Sri Lanka,red,22.1
+182,Sudan 19,yellow,23.1
+183,Suriname,blue,24.1
+184,Swaziland,green,25.1
+185,Sweden,pink,26.1
+186,Switzerland,red,27.1
+187,Syrian Arab Republic,yellow,28.1
+188,Tajikistan,blue,29.1
+189,TFYR Macedonia 20,green,30.1
+190,Thailand,pink,31.1
+191,Timor-Leste,red,32.1
+192,Togo,yellow,33.1
+193,Tokelau,blue,34.1
+194,Tonga,green,35.1
+195,Trinidad and Tobago,pink,36.1
+196,Tunisia,red,37.1
+197,Turkey,yellow,38.1
+198,Turkmenistan,yellow,39.1
+199,Turks and Caicos Islands,yellow,40.1
+200,Tuvalu,red,41.1
+201,Uganda,yellow,42.1
+202,Ukraine,blue,43.1
+203,United Arab Emirates,yellow,44.1
+204,United Kingdom,yellow,29.7
+205,United Republic of Tanzania 21,red,128.7
+206,United States of America,red,27.4
+207,United States Virgin Islands,yellow,21.4
+208,Uruguay,blue,59
+209,Uzbekistan,green,12.8
+210,Vanuatu,pink,50.6
+211,Venezuela (Bolivarian Republic of),red,87.3
+212,Viet Nam,yellow,22.7
+213,Wallis and Futuna Islands,blue,9
+214,Western Sahara,green,16.1
+215,Yemen,pink,66.1
+216,Zambia,red,138.5
+217,Zimbabwe,yellow,53.4
+777,Anguilla,yellow,0
+557,Anguilla,yellow,0
